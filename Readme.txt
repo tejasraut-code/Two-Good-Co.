@@ -11,7 +11,7 @@
 🎯 This project helped me enhance my animation integration skills and refine responsive UI/UX design practices.
 
 
-🔗 Live Demo: (Add your live link here)
+🔗 Live Demo: https://tejasraut-code.github.io/Two-Good-Co./
 📂 GitHub: tejasraut-code
 📂 LinkedIn: linkedin.com/in/tejas-raut-code
 📹 Inspired by: https://twogood.com.au/
